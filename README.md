@@ -15,5 +15,6 @@ Official resources.
 - [GitHub](https://github.com/libra)
 - [Libra White Paper](https://libra.org/en-US/white-paper/)
 - [Move Language White Paper](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
+- [Developer Portal](https://developers.libra.org/docs/welcome-to-libra)
 
 <p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
