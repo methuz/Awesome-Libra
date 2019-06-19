@@ -1,6 +1,6 @@
 # Awesome-Libra [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curating the best Libra project and resource
+Curating the best Libra project, Move project and resource
 
 ## Contents
 
@@ -10,11 +10,49 @@ Curating the best Libra project and resource
 
 Official resources.
 
-
 - [Website](https://libra.org/)
 - [GitHub](https://github.com/libra)
 - [Libra White Paper](https://libra.org/en-US/white-paper/)
 - [Move Language White Paper](https://developers.libra.org/docs/assets/papers/libra-move-a-language-with-programmable-resources.pdf)
 - [Developer Portal](https://developers.libra.org/docs/welcome-to-libra)
 
+## Learning resources
+
+Libra and Move learning resources.
+
+
+### Websites
+
+- [Libra Developer Portal](https://developers.libra.org/docs/welcome-to-libra)
+
 <p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
+
+### Code examples
+- [Move Overview](https://developers.libra.org/docs/move-overview)
+
+## Community
+- [Official Webboard](https://community.libra.org/categories)
+
+### Blogs
+
+## DApps
+
+DApp resources.
+
+### DApp directories
+### Games
+
+## Exchanges
+
+Libra focused exchanges.
+
+## Forks
+
+Libra forks.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [Methuz Kaewsai-kao](https://github.com/methuz) has waived all copyright and
+related or neighboring rights to this work.
