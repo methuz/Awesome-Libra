@@ -36,8 +36,6 @@ Libra and Move learning resources.
 
 - [Libra Developer Portal](https://developers.libra.org/docs/welcome-to-libra)
 
-<p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
-
 ## Developers
 
 All about development on Libra platform.
@@ -73,3 +71,7 @@ Libra forks.
 
 To the extent possible under law, [Methuz Kaewsai-kao](https://github.com/methuz) has waived all copyright and
 related or neighboring rights to this work.
+
+## Contributing
+
+<p>Contributions welcome. Read contributing.md then Add links through pull requests or create an issue to start a discussion.</p>
