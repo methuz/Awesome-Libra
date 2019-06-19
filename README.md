@@ -5,6 +5,17 @@ Curating the best Libra project, Move project and resource
 ## Contents
 
 - [Official](#official)
+- [Learning resources](#learning-resources)
+  - [Websites](#websites)
+- [Developers](#developers)
+  - [Libraries and Frameworks](#libraries-and-frameworks)
+  - [Code examples](#code-examples)
+- [Community](#community)
+  - [Blogs](#blogs)
+- [DApps](#dapps)
+  - [Games](#games)
+- [Exchanges](#exchanges)
+- [Forks](#forks)
 
 ## Official
 
@@ -26,6 +37,12 @@ Libra and Move learning resources.
 - [Libra Developer Portal](https://developers.libra.org/docs/welcome-to-libra)
 
 <p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
+
+## Developers
+
+All about development on Libra platform.
+
+### Libraries and Frameworks
 
 ### Code examples
 - [Move Overview](https://developers.libra.org/docs/move-overview)
