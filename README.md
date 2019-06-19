@@ -1,3 +1,9 @@
+<a href="https://developers.libra.org">
+	<img width="200" src="./.assets/libra.png" alt="Libra Logo" />
+</a>
+
+<hr/>
+
 # Awesome-Libra [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curating the best Libra project, Move project and resource
