@@ -35,6 +35,7 @@ Libra and Move learning resources.
 ### Websites
 
 - [Libra Developer Portal](https://developers.libra.org/docs/welcome-to-libra)
+- [Rust language Book](https://doc.rust-lang.org/book/title-page.html)
 
 ## Developers
 
