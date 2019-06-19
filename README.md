@@ -65,6 +65,7 @@ Libra focused exchanges.
 ## Forks
 
 Libra forks.
+- [POW Libra Classic](https://github.com/miohtama/libra-classic)
 
 ## License
 
