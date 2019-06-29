@@ -49,6 +49,7 @@ Libra and Move learning resources.
 All about development on Libra platform.
 
 ### Libraries and Frameworks
+- [gRPC client for Libra in Python](https://github.com/egorsmkv/libra-grpc-py)
 
 ### Code examples
 - [Move Overview](https://developers.libra.org/docs/move-overview)
