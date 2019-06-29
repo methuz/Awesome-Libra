@@ -57,7 +57,7 @@ All about development on Libra platform.
 ## Prototype
 
 ### Wallet
-- [Kulap Wallet](https://dev.kulap.io/libra/)
+- [Kulap - Server based Libra Wallet](https://dev.kulap.io/libra/)
 
 ## Community
 - [Official Webboard](https://community.libra.org/categories)
