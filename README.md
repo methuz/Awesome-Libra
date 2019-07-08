@@ -59,7 +59,6 @@ All about development on Libra platform.
 
 ### Server Based Wallet Prototype
 - [Kulap - Server based Libra Wallet](https://dev.kulap.io/libra/)
-- [Zengo - Multi-Signature POC](https://github.com/KZen-networks/libra?fbclid=IwAR06g4UeE6Sv4aAPq-rtZEfycOTRKePkDQEF6k8ie4xiZ872Z19I4vTeNNU)
 
 ## Community
 - [Official Webboard](https://community.libra.org/categories)
@@ -81,6 +80,7 @@ Libra focused exchanges.
 
 Libra forks.
 - [POW Libra Classic](https://github.com/miohtama/libra-classic)
+- [Zengo - Multi-Signature POC](https://github.com/KZen-networks/libra?fbclid=IwAR06g4UeE6Sv4aAPq-rtZEfycOTRKePkDQEF6k8ie4xiZ872Z19I4vTeNNU)
 
 ## License
 
