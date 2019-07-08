@@ -50,6 +50,7 @@ All about development on Libra platform.
 
 ### Libraries and Frameworks
 - [gRPC client for Libra in Python](https://github.com/egorsmkv/libra-grpc-py)
+- [PyLibra](https://github.com/bandprotocol/pylibra)
 
 ### Code examples
 - [Move Overview](https://developers.libra.org/docs/move-overview)
